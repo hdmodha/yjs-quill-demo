@@ -1,3 +1,12 @@
 #editor {
   min-height: 500px;
 }
+
+body {
+  font-family: "Radio Canada", sans-serif;
+}
+
+#y-connect-btn {
+  background-color: blanchedalmond;
+  border-radius: 7px;
+}
